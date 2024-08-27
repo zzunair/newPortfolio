@@ -50,17 +50,18 @@ const services = [
     icon: frontend,
   },
   {
-    title: 'Backend Developer',
+    title: 'Custom software Development',
     icon: backend,
   },
   {
-    title: 'UI/UX Design',
+    title: 'Website Redesign and Optimization',
     icon: ux,
   },
   {
-    title: 'Software Prototyping',
+    title: 'Shopify, BigCommerce, WordPress expertise',
     icon: prototyping,
   },
+
 ];
 
 const technologies = [
@@ -124,33 +125,33 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
+    title: 'Shopify & MERN Dev',
+    company_name: 'Gigalabs',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'Jan 2019 - Oct 2022',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'Shopify, BigCommerce & MERN Dev',
+    company_name: 'Nestosh LLC',
     icon: microverse,
     iconBg: '#333333',
     date: 'Mar 2022 - May 2022',
   },
-  {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
-    icon: kelhel,
-    iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
-  },
-  {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
-    icon: dcc,
-    iconBg: '#333333',
-    date: 'Sep 2022 - Present',
-  },
+  // {
+  //   title: 'Junior Software Engineer',
+  //   company_name: 'Kelhel',
+  //   icon: kelhel,
+  //   iconBg: '#333333',
+  //   date: 'May 2022 - Oct 2022',
+  // },
+  // {
+  //   title: 'Full Stack Developer',
+  //   company_name: 'Diversity Cyber Council',
+  //   icon: dcc,
+  //   iconBg: '#333333',
+  //   date: 'Sep 2022 - Present',
+  // },
 ];
 
 const projects = [
